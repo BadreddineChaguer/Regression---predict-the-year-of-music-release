@@ -35,5 +35,3 @@ open htmlcov/index.html
 
 which builds a more detailed report in the form of a web page (first
 command) and opens it in a web browser (second command).
-
-Translated with www.DeepL.com/Translator (free version)
